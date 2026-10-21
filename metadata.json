@@ -1,0 +1,6 @@
+{
+  "name": "DataJobs SP - Autonomous Job Hunter & Notion Agent",
+  "description": "Autonomous job search agent for Data Analytics positions in São Paulo with daily discovery, interactive Notion tracker sync, and downloadable Jupyter Notebook (.ipynb).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
